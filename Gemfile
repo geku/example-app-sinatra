@@ -9,4 +9,4 @@ group :development do
   gem 'awesome_print'
 end
 
-ruby '2.0.0'
+ruby '2.1.5'
